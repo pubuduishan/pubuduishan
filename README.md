@@ -1,229 +1,164 @@
 <div align="center">
 
-# 👋 Hey, I'm Pubudu Ishan Wickrama Aarachchi
-
-### `Owner & Founder @ FlickBox Technologies` · `Software Engineer @ LAUGFS Holdings`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+digital+experiences+that+solve+real+problems;UI%2FUX+%7C+Full-Stack+%7C+Mobile+%7C+Cloud;Turning+ideas+into+impactful+products" alt="Typing SVG" />
+<!-- Animated Banner with Typing Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:58A6FF&height=200&section=header&text=Pubudu%20Ishan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <br/>
 
-<a href="https://komarev.com/ghpvc/?username=pubuduishan">
-  <img src="https://komarev.com/ghpvc/?username=pubuduishan&label=Profile%20Views&color=0F172A&style=for-the-badge" alt="Profile Views" />
-</a>
-<a href="https://github.com/pubuduishan?tab=followers">
-  <img src="https://img.shields.io/github/followers/pubuduishan?label=Followers&style=for-the-badge&color=0F172A&logo=github" alt="Followers" />
-</a>
+<!-- Typing SVG -->
 <a href="https://github.com/pubuduishan">
-  <img src="https://img.shields.io/badge/Repos-15%2B-0F172A?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+FlickBox+Technologies;Software+Engineer+%40+LAUGFS+Holdings;Building+digital+experiences+that+solve+real+problems" alt="Typing SVG" />
 </a>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+
+<br/>
+
+<!-- Profile Views with Animation -->
+<img src="https://komarev.com/ghpvc/?username=pubuduishan&label=👁️%20Profile%20Views&color=0F172A&style=for-the-badge&labelColor=58A6FF" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/pubuduishan?label=👥%20Followers&style=for-the-badge&color=0F172A&labelColor=58A6FF&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/💼%20Open%20to-Collaboration-0F172A?style=for-the-badge&labelColor=58A6FF" alt="Open to Collaboration" />
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
 
-```typescript
-const pubudu = {
-  role: ["Founder @ FlickBox Technologies", "Software Engineer @ LAUGFS Holdings"],
-  education: "BICT (Hons) · University of Colombo",
-  focus: ["UI/UX Engineering", "Full-Stack Development", "Mobile Apps"],
-  values: ["Innovation", "Collaboration", "Lifelong Learning"],
-  philosophy: "Don't just write code — build products that create meaningful impact.",
-  currentlyExploring: ["Scalable Architectures", "Emerging Tech", "Open Source"]
-};
-```
+<!-- Stats Cards Row -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=default&hide_border=true&title_color=0F172A&icon_color=0F172A&text_color=24292F&border_radius=10&count_private=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&border_radius=10" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=24292F&border_radius=10&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=10" alt="Top Languages" />
+</picture>
 
-I'm a **Software Engineer** passionate about creating meaningful digital experiences. My journey isn't just about frameworks — it's about understanding how technology connects people and solves real-world problems.
+<br/><br/>
 
-From **mobile applications** to **full-stack web platforms**, I'm drawn to solutions that are both *functionally elegant* and *visually engaging*.
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF" alt="Streak Stats" />
+</picture>
 
-> 💡 **What drives me:** UI/UX thinking — great software is a balance between clean architecture and meaningful user experience.
-
-**My journey hasn't always been linear.** There were moments of uncertainty, missed opportunities, and hard-earned lessons. But **persistence defines me**. I believe growth comes from curiosity, consistency, and the courage to try again.
-
-Outside of coding, you'll find me exploring emerging technologies, contributing to open-source projects, refining design concepts, and mentoring developers just starting their journeys.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<details open>
-<summary><b>Languages & Frameworks</b></summary>
-<br/>
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,angular,ts,js&theme=dark&perline=10" alt="Languages" />
+</p>
 
-</details>
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,go,python&theme=dark&perline=10" alt="Backend" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite&theme=dark&perline=10" alt="Databases" />
+</p>
 
-<details open>
-<summary><b>Backend & Databases</b></summary>
-<br/>
+### Frontend, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,vite,figma,git,github,azure,postman,vscode&theme=dark&perline=10" alt="Tools" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
-
-</details>
-
-<details open>
-<summary><b>Frontend, Tools & Platforms</b></summary>
-<br/>
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
-</details>
+</div>
 
 ---
 
 ## 🚀 Recent Repositories
 
 <!-- RECENT_REPOS:START -->
-
-<table>
-<tr><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/Orange-HRM-Test-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=Orange-HRM-Test-Automation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Orange-HRM-Test-Automation" />
-</a>
-<br/>
-<sub>This test plan covers automated testing of the OrangeHRM demo app using Selenium and Pytho · `Python`</sub>
-</td><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/admin.pubuduishan.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=admin.pubuduishan.com&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="admin.pubuduishan.com" />
-</a>
-<br/>
-<sub>_No description_ </sub>
-</td></tr>
-<tr><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/task-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=task-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="task-app" />
-</a>
-<br/>
-<sub>A simple Task Management ecosystem built with a focus on Security, Scalability, and Develo · `TypeScript`</sub>
-</td><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/wellmind_dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=wellmind_dashboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="wellmind_dashboard" />
-</a>
-<br/>
-<sub>Enhancing Workplace Well-Being for IT Professionals through AI-Powered Stress Detection · `Python`</sub>
-</td></tr>
-<tr><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/wellmind_recommendation_engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=wellmind_recommendation_engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="wellmind_recommendation_engine" />
-</a>
-<br/>
-<sub>The Recommendation Engine is a rule-based system developed as a key component of the WellM · `Python`</sub>
-</td><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/typing-survey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=typing-survey&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="typing-survey" />
-</a>
-<br/>
-<sub>This is helping tool for university final year research project data collection for keystr · `JavaScript`</sub>
-</td></tr>
-</table>
-
-> 🔄 _Last updated: Mon, 28 Sep 2026 14:06:07 GMT_
-
+<!-- This section is auto-updated by GitHub Actions -->
 <!-- RECENT_REPOS:END -->
 
 > 🤖 **Auto-updated** daily via GitHub Actions.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github&hide_border=true&radius=10">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&radius=10" width="100%" alt="Activity Graph" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" />
+<!-- Trophies -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=flat&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</picture>
 
 </div>
 
-### 🏆 Achievements
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake.svg" alt="Contribution Snake" />
+  </picture>
 </div>
 
 ---
 
 ## 🌐 Let's Connect
 
+<div align="center">
+
 ### 💼 Professional
 
 <p>
-<a href="https://linkedin.com/in/pubuduishan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/22298697/pubudu-ishan-wickrama-arachchi"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
-<a href="https://leetcode.com/pubuduishan"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" /></a>
-<a href="https://hackerrank.com/pubuduishan"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" /></a>
-<a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle" /></a>
-<a href="https://pubuduishan.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
-<a href="https://dev.to/pubuduishan"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" alt="Dev.to" /></a>
+  <a href="https://linkedin.com/in/pubuduishan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/22298697/pubudu-ishan-wickrama-arachchi"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://leetcode.com/pubuduishan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/pubuduishan"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://pubuduishan.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://dev.to/pubuduishan"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
 
 ### 🌍 Social
 
 <p>
-<a href="https://facebook.com/pubuduishanw"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
-<a href="https://bsky.app/profile/pubuduishan.com"><img src="https://img.shields.io/badge/BlueSky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="BlueSky" /></a>
-<a href="https://twitter.com/pubuduishanw"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
-<a href="https://instagram.com/pubuduishanw"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
-<a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" /></a>
-<a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit" /></a>
+  <a href="https://facebook.com/pubuduishanw"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://bsky.app/profile/pubuduishan.com"><img src="https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky" /></a>
+  <a href="https://twitter.com/pubuduishanw"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/pubuduishanw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
 ### 📧 Direct
 
 <p>
-<a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
-<a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" /></a>
-<a href="https://t.me/+94778830166"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
+  <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+94778830166"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-| 🔍 Research Enthusiast | 🧠 Lifelong Learner | 🎯 Problem Solver |
-|:---:|:---:|:---:|
-| Exploring cutting-edge tech | Continuous knowledge sharing | Complex challenges, clean solutions |
-
-| 🌱 Growth Mindset | 🚀 Builder at Heart |
-|:---:|:---:|
-| Adapting to new trends | Turning ideas into products that matter |
 
 </div>
 
@@ -231,16 +166,15 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 <div align="center">
 
-### ✨ Let's connect, collaborate, and build something valuable together ✨
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:58A6FF&height=120&section=footer&text=Let's%20Connect!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-**Open to exciting projects, collaborations, and mentorship opportunities**
+<br/>
+
+**✨ Always learning, always building ✨**
 
 <a href="mailto:pubuduishan2000@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Get_in_Touch-0F172A?style=for-the-badge" alt="Get in Touch" />
+  <img src="https://img.shields.io/badge/📩_Get_in_Touch-0F172A?style=for-the-badge&labelColor=58A6FF" />
 </a>
-
-<br/><br/>
-
-*Last updated: March 2026 · Always learning, always building.*
 
 </div>
