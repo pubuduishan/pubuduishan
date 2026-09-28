@@ -85,7 +85,12 @@ Outside of code, I explore new technologies, refine design ideas and help develo
 <!--RECENT_REPOS:START-->
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | --- | --- |
-| Loading | This table refreshes automatically every few hours | | | |
+| [**admin.pubuduishan.com**](https://github.com/pubuduishan/admin.pubuduishan.com) | No description yet |  | 0 | May 2026 |
+| [**task-app**](https://github.com/pubuduishan/task-app) | A simple Task Management ecosystem built with a focus on Security, Scalability, and Developer Experience. This project features a robust NestJS backend with JWT-protected REST APIs and a modern, high-performance React frontend. | TypeScript | 1 | Mar 2026 |
+| [**skills-introduction-to-github**](https://github.com/pubuduishan/skills-introduction-to-github) | My clone repository |  | 0 | Dec 2025 |
+| [**hello_golang**](https://github.com/pubuduishan/hello_golang) | Go by Example is a hands-on introduction to Go using annotated example programs. | Go | 0 | Sep 2025 |
+| [**wellmind_recommendation_engine**](https://github.com/pubuduishan/wellmind_recommendation_engine) | The Recommendation Engine is a rule-based system developed as a key component of the WellMind Final Year Research Project. | Python | 0 | Jul 2025 |
+| [**wellmind_dashboard**](https://github.com/pubuduishan/wellmind_dashboard) | Enhancing Workplace Well-Being for IT Professionals through AI-Powered Stress Detection | Python | 0 | Jun 2025 |
 <!--RECENT_REPOS:END-->
 
 <sub>Pulled from the GitHub API by a scheduled workflow. See <code>scripts/update-readme.mjs</code>.</sub>
