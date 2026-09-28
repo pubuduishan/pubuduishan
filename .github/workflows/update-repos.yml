@@ -1,0 +1,85 @@
+name: Update Recent Repositories
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent Repos section
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = 'README.md';
+            const username = context.repo.owner;
+
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: 'updated',
+              per_page: 30,
+            });
+
+            const filtered = repos
+              .filter(r => !r.fork && r.name !== username)
+              .slice(0, 6);
+
+            if (filtered.length === 0) {
+              console.log('No repositories found to display.');
+              return;
+            }
+
+            const cards = filtered.map(r => {
+              const cardUrl = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF`;
+              return `<td width="50%" valign="top">
+            <a href="${r.html_url}">
+              <img src="${cardUrl}" alt="${r.name}" />
+            </a>
+            <br/>
+            <sub>${r.description ? r.description.slice(0, 90) : '_No description_'} ${r.language ? '· \`' + r.language + '\`' : ''}</sub>
+            </td>`;
+            });
+
+            let table = '<table>\n';
+            for (let i = 0; i < cards.length; i += 2) {
+              const left = cards[i];
+              const right = cards[i + 1] || '<td width="50%" valign="top"></td>';
+              table += `<tr>${left}${right}</tr>\n`;
+            }
+            table += '</table>\n';
+
+            const startMarker = '<!-- RECENT_REPOS:START -->';
+            const endMarker = '<!-- RECENT_REPOS:END -->';
+            const readme = fs.readFileSync(path, 'utf8');
+            const regex = new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`);
+            const timestamp = new Date().toUTCString();
+            const replacement = `${startMarker}\n\n${table}\n> 🔄 _Last updated: ${timestamp}_\n\n${endMarker}`;
+
+            fs.writeFileSync(path, readme.replace(regex, replacement));
+            console.log(`Updated README with ${filtered.length} repositories.`);
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update recent repositories [skip ci]"
+            git push
+          fi
