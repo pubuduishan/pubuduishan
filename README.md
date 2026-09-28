@@ -1,224 +1,152 @@
 <div align="center">
 
-<!-- Animated Banner with Typing Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:58A6FF&height=200&section=header&text=Pubudu%20Ishan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+# Pubudu Ishan Wickrama Aarachchi
 
-<br/>
+**Software Engineer at LAUGFS Holdings Limited · Founder of FlickBox Technologies**
 
-<!-- Typing SVG -->
-<a href="https://github.com/pubuduishan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+FlickBox+Technologies;Software+Engineer+%40+LAUGFS+Holdings;Building+digital+experiences+that+solve+real+problems" alt="Typing SVG" />
-</a>
+*Building digital experiences that solve real problems*
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+<br>
 
-<br/>
-
-<!-- Profile Views with Animation -->
-<img src="https://komarev.com/ghpvc/?username=pubuduishan&label=👁️%20Profile%20Views&color=0F172A&style=for-the-badge&labelColor=58A6FF" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/pubuduishan?label=👥%20Followers&style=for-the-badge&color=0F172A&labelColor=58A6FF&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/💼%20Open%20to-Collaboration-0F172A?style=for-the-badge&labelColor=58A6FF" alt="Open to Collaboration" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-334155?logo=googlechrome&logoColor=white&style=flat-square)](https://pubuduishan.com)
+[![FlickBox](https://img.shields.io/badge/FlickBox%20Technologies-334155?logo=rocket&logoColor=white&style=flat-square)](https://flickbox.lk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/pubuduishan)
+[![Email](https://img.shields.io/badge/Email-334155?logo=gmail&logoColor=white&style=flat-square)](mailto:pubuduishan2000@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=pubuduishan&color=334155&style=flat-square&label=Profile+views)
 
 </div>
 
 ---
 
+## About
+
+I'm a software engineer who enjoys turning real problems into working products. My work spans mobile apps and full-stack web platforms, and I care about both the architecture underneath and the experience on top. UI and UX thinking is what keeps me interested in the craft.
+
+I hold a Bachelor of Information and Communication Technology (Honours) from the University of Colombo. Day to day I work with Flutter, React, Vue, Laravel and NestJS.
+
+I'm also the founder of **FlickBox Technologies**, where I explore ideas beyond my day job and practise building scalable digital solutions. Running a company has taught me patience, adaptability and the habit of learning continuously.
+
+My path hasn't been a straight line. There were uncertain stretches and missed opportunities, and I learned something from each. I keep going because I'm curious and I keep showing up.
+
+Outside of code, I explore new technologies, refine design ideas and help developers who are just starting out.
+
+---
+
+## Tech Stack
+
+**Mobile and Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-334155?logo=flutter&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-334155?logo=dart&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-334155?logo=react&logoColor=white&style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-334155?logo=vue.js&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/Angular-334155?logo=angular&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?logo=javascript&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-334155?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-334155?logo=css&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-334155?logo=tailwind-css&logoColor=white&style=flat-square)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-334155?logo=ant-design&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-334155?logo=vite&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-334155?logo=figma&logoColor=white&style=flat-square)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-334155?logo=node.js&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-334155?logo=nestjs&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-334155?logo=laravel&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-334155?logo=php&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-334155?logo=go&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-334155?logo=python&logoColor=white&style=flat-square)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-334155?logo=mysql&logoColor=white&style=flat-square)
+![MSSQL](https://img.shields.io/badge/MSSQL-334155?logo=microsoft-sql-server&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-334155?logo=firebase&logoColor=white&style=flat-square)
+![Realm](https://img.shields.io/badge/Realm-334155?logo=realm&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-334155?logo=sqlite&logoColor=white&style=flat-square)
+
+**Tools and Platforms**
+
+![Git](https://img.shields.io/badge/Git-334155?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-334155?logo=github&logoColor=white&style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-334155?logo=microsoft-azure&logoColor=white&style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-334155?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-334155?logo=json-web-tokens&logoColor=white&style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-334155?logo=swagger&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-334155?logo=postman&logoColor=white&style=flat-square)
+
+---
+
+## Recent Repositories
+
+<!--RECENT_REPOS:START-->
+| Repository | Description | Language | Stars | Updated |
+| --- | --- | --- | --- | --- |
+| Loading | This table refreshes automatically every few hours | | | |
+<!--RECENT_REPOS:END-->
+
+<sub>Pulled from the GitHub API by a scheduled workflow. See <code>scripts/update-readme.mjs</code>.</sub>
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
-## 🎯 About Me
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=64748b&text_color=64748b&icon_color=64748b" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&hide_border=true&theme=transparent&title_color=64748b&text_color=64748b" alt="Top languages" />
 
-<!-- Stats Cards Row -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&count_private=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=default&hide_border=true&title_color=0F172A&icon_color=0F172A&text_color=24292F&border_radius=10&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&border_radius=10" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=24292F&border_radius=10&langs_count=8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=10" alt="Top Languages" />
-</picture>
+<br>
 
-<br/><br/>
-
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF" alt="Streak Stats" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=transparent&hide_border=true&stroke=64748b&ring=64748b&fire=64748b&currStreakNum=64748b&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b&dates=64748b" alt="Contribution streak" />
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## Connect
 
-<div align="center">
+**Professional**
 
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,angular,ts,js&theme=dark&perline=10" alt="Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/pubuduishan)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-334155?logo=stackoverflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/22298697/pubudu-ishan-wickrama-arachchi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-334155?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/pubuduishan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-334155?logo=hackerrank&logoColor=white&style=flat-square)](https://hackerrank.com/pubuduishan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-334155?logo=kaggle&logoColor=white&style=flat-square)](https://kaggle.com/pubuduishan)
+[![Medium](https://img.shields.io/badge/Medium-334155?logo=medium&logoColor=white&style=flat-square)](https://pubuduishan.medium.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-334155?logo=devdotto&logoColor=white&style=flat-square)](https://dev.to/pubuduishan)
+[![daily.dev](https://img.shields.io/badge/daily.dev-334155?logo=daily-dot-dev&logoColor=white&style=flat-square)](https://app.daily.dev/pubuduishan)
+[![Google Dev](https://img.shields.io/badge/Google%20Dev-334155?logo=google&logoColor=white&style=flat-square)](https://google.dev/u/pubuduishandigital)
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,go,python&theme=dark&perline=10" alt="Backend" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite&theme=dark&perline=10" alt="Databases" />
-</p>
+**Direct**
 
-### Frontend, Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,vite,figma,git,github,azure,postman,vscode&theme=dark&perline=10" alt="Tools" />
-</p>
+[![Email](https://img.shields.io/badge/Email-334155?logo=gmail&logoColor=white&style=flat-square)](mailto:pubuduishan2000@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-334155?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/+94778830166)
+[![Telegram](https://img.shields.io/badge/Telegram-334155?logo=telegram&logoColor=white&style=flat-square)](https://t.me/+94778830166)
+[![Messenger](https://img.shields.io/badge/Messenger-334155?logo=messenger&logoColor=white&style=flat-square)](https://m.me/pubuduishandigital)
+[![Discord](https://img.shields.io/badge/Discord-334155?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/pubuduishandigital)
 
-</div>
+<details>
+<summary><b>Social</b></summary>
+<br>
 
----
+[![Facebook](https://img.shields.io/badge/Facebook-334155?logo=facebook&logoColor=white&style=flat-square)](https://facebook.com/pubuduishanw)
+[![Bluesky](https://img.shields.io/badge/Bluesky-334155?logo=bluesky&logoColor=white&style=flat-square)](https://bsky.app/profile/pubuduishan.com)
+[![X](https://img.shields.io/badge/X-334155?logo=x&logoColor=white&style=flat-square)](https://twitter.com/pubuduishanw)
+[![Instagram](https://img.shields.io/badge/Instagram-334155?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/pubuduishanw)
+[![Threads](https://img.shields.io/badge/Threads-334155?logo=threads&logoColor=white&style=flat-square)](https://threads.com/pubuduishanw)
+[![YouTube](https://img.shields.io/badge/YouTube-334155?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@pubuduishandigital)
+[![Reddit](https://img.shields.io/badge/Reddit-334155?logo=reddit&logoColor=white&style=flat-square)](https://www.reddit.com/user/pubuduishandigital/)
 
-## 🚀 Recent Repositories
-
-<!-- RECENT_REPOS:START -->
-
-<table>
-<tr><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/Orange-HRM-Test-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=Orange-HRM-Test-Automation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Orange-HRM-Test-Automation" />
-</a>
-<br/>
-<sub>This test plan covers automated testing of the OrangeHRM demo app using Selenium and Pytho · `Python`</sub>
-</td><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/admin.pubuduishan.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=admin.pubuduishan.com&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="admin.pubuduishan.com" />
-</a>
-<br/>
-<sub>_No description_ </sub>
-</td></tr>
-<tr><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/task-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=task-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="task-app" />
-</a>
-<br/>
-<sub>A simple Task Management ecosystem built with a focus on Security, Scalability, and Develo · `TypeScript`</sub>
-</td><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/wellmind_dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=wellmind_dashboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="wellmind_dashboard" />
-</a>
-<br/>
-<sub>Enhancing Workplace Well-Being for IT Professionals through AI-Powered Stress Detection · `Python`</sub>
-</td></tr>
-<tr><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/wellmind_recommendation_engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=wellmind_recommendation_engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="wellmind_recommendation_engine" />
-</a>
-<br/>
-<sub>The Recommendation Engine is a rule-based system developed as a key component of the WellM · `Python`</sub>
-</td><td width="50%" valign="top">
-<a href="https://github.com/pubuduishan/typing-survey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=typing-survey&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="typing-survey" />
-</a>
-<br/>
-<sub>This is helping tool for university final year research project data collection for keystr · `JavaScript`</sub>
-</td></tr>
-</table>
-
-> 🔄 _Last updated: Mon, 28 Sep 2026 14:08:48 GMT_
-
-<!-- RECENT_REPOS:END -->
-
-> 🤖 **Auto-updated** daily via GitHub Actions.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&radius=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github&hide_border=true&radius=10">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&radius=10" width="100%" alt="Activity Graph" />
-</picture>
-
-<br/>
-
-<!-- Trophies -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=flat&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true">
-  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</picture>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake.svg" alt="Contribution Snake" />
-  </picture>
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-### 💼 Professional
-
-<p>
-  <a href="https://linkedin.com/in/pubuduishan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/22298697/pubudu-ishan-wickrama-arachchi"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://leetcode.com/pubuduishan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://hackerrank.com/pubuduishan"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://pubuduishan.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://dev.to/pubuduishan"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-</p>
-
-### 🌍 Social
-
-<p>
-  <a href="https://facebook.com/pubuduishanw"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://bsky.app/profile/pubuduishan.com"><img src="https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky" /></a>
-  <a href="https://twitter.com/pubuduishanw"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/pubuduishanw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-</p>
-
-### 📧 Direct
-
-<p>
-  <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://t.me/+94778830166"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:58A6FF&height=120&section=footer&text=Let's%20Connect!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
-
-<br/>
-
-**✨ Always learning, always building ✨**
-
-<a href="mailto:pubuduishan2000@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Get_in_Touch-0F172A?style=for-the-badge&labelColor=58A6FF" />
-</a>
+Open to interesting projects, collaborations and mentoring.
 
 </div>
