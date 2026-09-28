@@ -82,7 +82,51 @@
 ## 🚀 Recent Repositories
 
 <!-- RECENT_REPOS:START -->
-<!-- This section is auto-updated by GitHub Actions -->
+
+<table>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/pubuduishan/Orange-HRM-Test-Automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=Orange-HRM-Test-Automation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Orange-HRM-Test-Automation" />
+</a>
+<br/>
+<sub>This test plan covers automated testing of the OrangeHRM demo app using Selenium and Pytho · `Python`</sub>
+</td><td width="50%" valign="top">
+<a href="https://github.com/pubuduishan/admin.pubuduishan.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=admin.pubuduishan.com&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="admin.pubuduishan.com" />
+</a>
+<br/>
+<sub>_No description_ </sub>
+</td></tr>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/pubuduishan/task-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=task-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="task-app" />
+</a>
+<br/>
+<sub>A simple Task Management ecosystem built with a focus on Security, Scalability, and Develo · `TypeScript`</sub>
+</td><td width="50%" valign="top">
+<a href="https://github.com/pubuduishan/wellmind_dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=wellmind_dashboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="wellmind_dashboard" />
+</a>
+<br/>
+<sub>Enhancing Workplace Well-Being for IT Professionals through AI-Powered Stress Detection · `Python`</sub>
+</td></tr>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/pubuduishan/wellmind_recommendation_engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=wellmind_recommendation_engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="wellmind_recommendation_engine" />
+</a>
+<br/>
+<sub>The Recommendation Engine is a rule-based system developed as a key component of the WellM · `Python`</sub>
+</td><td width="50%" valign="top">
+<a href="https://github.com/pubuduishan/typing-survey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pubuduishan&repo=typing-survey&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="typing-survey" />
+</a>
+<br/>
+<sub>This is helping tool for university final year research project data collection for keystr · `JavaScript`</sub>
+</td></tr>
+</table>
+
+> 🔄 _Last updated: Mon, 28 Sep 2026 14:08:48 GMT_
+
 <!-- RECENT_REPOS:END -->
 
 > 🤖 **Auto-updated** daily via GitHub Actions.
