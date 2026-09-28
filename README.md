@@ -1,36 +1,71 @@
 <div align="center">
 
-# Pubudu Ishan Wickrama Aarachchi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:0f766e&text=Pubudu%20Ishan%20Wickrama%20Aarachchi&fontColor=e2e8f0&fontSize=34&fontAlignY=38&desc=Building%20digital%20experiences%20that%20solve%20real%20problems&descSize=16&descAlignY=60&descColor=94a3b8&section=header" alt="Pubudu Ishan Wickrama Aarachchi" width="100%" />
 
-**Software Engineer at LAUGFS Holdings Limited · Founder of FlickBox Technologies**
-
-*Building digital experiences that solve real problems*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer+at+LAUGFS+Holdings+Limited;Founder+of+FlickBox+Technologies;Flutter%2C+React%2C+Vue%2C+Laravel%2C+NestJS" alt="Typing intro" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-334155?logo=googlechrome&logoColor=white&style=flat-square)](https://pubuduishan.com)
-[![FlickBox](https://img.shields.io/badge/FlickBox%20Technologies-334155?logo=rocket&logoColor=white&style=flat-square)](https://flickbox.lk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/pubuduishan)
-[![Email](https://img.shields.io/badge/Email-334155?logo=gmail&logoColor=white&style=flat-square)](mailto:pubuduishan2000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?logo=googlechrome&logoColor=white&style=flat-square)](https://pubuduishan.com)
+[![FlickBox](https://img.shields.io/badge/FlickBox%20Technologies-0f766e?logo=rocket&logoColor=white&style=flat-square)](https://flickbox.lk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f766e?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/pubuduishan)
+[![Email](https://img.shields.io/badge/Email-0f766e?logo=gmail&logoColor=white&style=flat-square)](mailto:pubuduishan2000@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=pubuduishan&color=334155&style=flat-square&label=Profile+views)
+
+<sub>
+<a href="#about">About</a> &nbsp;|&nbsp;
+<a href="#focus">Focus</a> &nbsp;|&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;|&nbsp;
+<a href="#recent-repositories">Repositories</a> &nbsp;|&nbsp;
+<a href="#latest-writing">Writing</a> &nbsp;|&nbsp;
+<a href="#github-statistics">Statistics</a> &nbsp;|&nbsp;
+<a href="#github-achievements">Achievements</a> &nbsp;|&nbsp;
+<a href="#coding-activity">Activity</a> &nbsp;|&nbsp;
+<a href="#connect">Connect</a>
+</sub>
 
 </div>
 
----
+<br>
 
 ## About
 
 I'm a software engineer who enjoys turning real problems into working products. My work spans mobile apps and full-stack web platforms, and I care about both the architecture underneath and the experience on top. UI and UX thinking is what keeps me interested in the craft.
 
-I hold a Bachelor of Information and Communication Technology (Honours) from the University of Colombo. Day to day I work with Flutter, React, Vue, Laravel and NestJS.
-
-I'm also the founder of **FlickBox Technologies**, where I explore ideas beyond my day job and practise building scalable digital solutions. Running a company has taught me patience, adaptability and the habit of learning continuously.
+Through **FlickBox Technologies** I explore ideas beyond my day job and practise building scalable digital solutions. Running a company has taught me patience, adaptability and the habit of learning continuously.
 
 My path hasn't been a straight line. There were uncertain stretches and missed opportunities, and I learned something from each. I keep going because I'm curious and I keep showing up.
 
-Outside of code, I explore new technologies, refine design ideas and help developers who are just starting out.
+<table>
+  <tr><td><b>Role</b></td><td>Software Engineer, LAUGFS Holdings Limited</td></tr>
+  <tr><td><b>Founder</b></td><td><a href="https://flickbox.lk">FlickBox Technologies</a></td></tr>
+  <tr><td><b>Education</b></td><td>B.ICT (Honours), University of Colombo</td></tr>
+  <tr><td><b>Daily stack</b></td><td>Flutter, React, Vue, Laravel, NestJS</td></tr>
+  <tr><td><b>Interests</b></td><td>UI/UX, mobile apps, full-stack platforms, open source, mentoring</td></tr>
+</table>
 
----
+<br>
+
+## Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Mobile apps</b><br><br>
+      Flutter applications with a clean structure and careful attention to how they feel in the hand.
+    </td>
+    <td width="33%" valign="top">
+      <b>Web platforms</b><br><br>
+      Full-stack products with React or Vue on the front and Laravel or NestJS behind them.
+    </td>
+    <td width="33%" valign="top">
+      <b>Product thinking</b><br><br>
+      Turning ideas into working software, from first sketch to something people can use.
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## Tech Stack
 
@@ -78,39 +113,86 @@ Outside of code, I explore new technologies, refine design ideas and help develo
 ![Swagger](https://img.shields.io/badge/Swagger-334155?logo=swagger&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-334155?logo=postman&logoColor=white&style=flat-square)
 
----
+<br>
 
 ## Recent Repositories
 
 <!--RECENT_REPOS:START-->
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | --- | --- |
-| [**admin.pubuduishan.com**](https://github.com/pubuduishan/admin.pubuduishan.com) | No description yet |  | 0 | May 2026 |
-| [**task-app**](https://github.com/pubuduishan/task-app) | A simple Task Management ecosystem built with a focus on Security, Scalability, and Developer Experience. This project features a robust NestJS backend with JWT-protected REST APIs and a modern, high-performance React frontend. | TypeScript | 1 | Mar 2026 |
-| [**skills-introduction-to-github**](https://github.com/pubuduishan/skills-introduction-to-github) | My clone repository |  | 0 | Dec 2025 |
-| [**hello_golang**](https://github.com/pubuduishan/hello_golang) | Go by Example is a hands-on introduction to Go using annotated example programs. | Go | 0 | Sep 2025 |
-| [**wellmind_recommendation_engine**](https://github.com/pubuduishan/wellmind_recommendation_engine) | The Recommendation Engine is a rule-based system developed as a key component of the WellMind Final Year Research Project. | Python | 0 | Jul 2025 |
-| [**wellmind_dashboard**](https://github.com/pubuduishan/wellmind_dashboard) | Enhancing Workplace Well-Being for IT Professionals through AI-Powered Stress Detection | Python | 0 | Jun 2025 |
+| Loading | This table refreshes automatically every few hours | | | |
 <!--RECENT_REPOS:END-->
 
-<sub>Pulled from the GitHub API by a scheduled workflow. See <code>scripts/update-readme.mjs</code>.</sub>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=64748b&text_color=64748b&icon_color=64748b" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&hide_border=true&theme=transparent&title_color=64748b&text_color=64748b" alt="Top languages" />
+<sub>Fetched from the GitHub API by a scheduled workflow.</sub>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=transparent&hide_border=true&stroke=64748b&ring=64748b&fire=64748b&currStreakNum=64748b&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b&dates=64748b" alt="Contribution streak" />
+## Latest Writing
+
+<!--LATEST_POSTS:START-->
+_Loading posts..._
+<!--LATEST_POSTS:END-->
+
+<sub>Fetched from <a href="https://dev.to/pubuduishan">dev.to</a> by the same workflow.</sub>
+
+<br>
+
+## GitHub Statistics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&include_all_commits=true&border_radius=10&bg_color=0d1117&border_color=1e293b&title_color=2dd4bf&text_color=94a3b8&icon_color=5eead4">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&include_all_commits=true&border_radius=10&bg_color=f8fafc&border_color=e2e8f0&title_color=0f766e&text_color=475569&icon_color=0f766e">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&langs_count=8&border_radius=10&bg_color=0d1117&border_color=1e293b&title_color=2dd4bf&text_color=94a3b8">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&langs_count=8&border_radius=10&bg_color=f8fafc&border_color=e2e8f0&title_color=0f766e&text_color=475569">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pubuduishan&border_radius=10&background=0d1117&stroke=1e293b&ring=2dd4bf&fire=5eead4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=pubuduishan&border_radius=10&background=f8fafc&stroke=e2e8f0&ring=0f766e&fire=0f766e&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=0f766e&sideLabels=475569&dates=64748b">
+</picture>
 
 </div>
 
----
+<br>
+
+## GitHub Achievements
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=nord&no-bg=true&no-frame=true&column=7&margin-w=12&margin-h=12">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=flat&no-frame=true&column=7&margin-w=12&margin-h=12">
+</picture>
+
+</div>
+
+<br>
+
+## Coding Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=e2e8f0&area=true&area_color=14b8a6&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&bg_color=f8fafc&color=0f766e&line=0f766e&point=0f172a&area=true&area_color=14b8a6&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pubuduishan/pubuduishan/output/github-snake.svg">
+</picture>
+
+</div>
+
+<br>
 
 ## Connect
 
@@ -148,10 +230,12 @@ Outside of code, I explore new technologies, refine design ideas and help develo
 
 </details>
 
----
-
 <div align="center">
 
+<br>
+
 Open to interesting projects, collaborations and mentoring.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:0f766e&section=footer" alt="" width="100%" />
 
 </div>
