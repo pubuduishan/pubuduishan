@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pubudu Ishan Wickramaarachchi
+# 👋 Hi, I'm Pubudu Ishan Wickrama Aarachchi
 
 > **Owner & Founder of FlickBox Technologies | Software Engineer at LAUGFS Holdings Limited**  
 > *Building digital experiences that solve real problems*
@@ -137,16 +137,16 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 <div align="left">
 
-<a href="https://linkedin.com/in/ishanwarachchi"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="https://stackoverflow.com/users/ishanwarachchi"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
-<a href="https://github.com/ishanwarachchi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/ishanwarachchi"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
-<a href="https://hackerrank.com/ishanwarachchi"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
-<a href="https://kaggle.com/ishanwarachchi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
-<a href="https://ishanwarachchi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/ishanwarachchi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a>
-<a href="https://app.daily.dev/ishanwarachchi"><img src="https://img.shields.io/badge/daily.dev-000000?logo=daily-dot-dev&logoColor=white"/></a>
-<a href="https://google.dev/u/ishanwarachchi"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white"/></a>
+<a href="https://linkedin.com/in/pubuduishan"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<a href="https://stackoverflow.com/users/22298697/pubudu-ishan-wickrama-arachchi"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
+<a href="https://github.com/pubuduishan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/pubuduishan"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
+<a href="https://hackerrank.com/pubuduishan"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
+<a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
+<a href="https://pubuduishan.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/pubuduishan"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a>
+<a href="https://app.daily.dev/pubuduishan"><img src="https://img.shields.io/badge/daily.dev-000000?logo=daily-dot-dev&logoColor=white"/></a>
+<a href="https://google.dev/u/pubuduishandigital"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white"/></a>
 
 </div>
 
@@ -154,12 +154,12 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 <div align="cen">
 
-<a href="https://facebook.com/ishanwarachchi"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+<a href="https://facebook.com/pubuduishanw"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
 <a href="https://bsky.app/profile/pubuduishan.com"><img src="https://img.shields.io/badge/BlueSky-0285FF?logo=bluesky&logoColor=white"/></a>
-<a href="https://twitter.com/ishanwarachchi"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
-<a href="https://instagram.com/ishanwarachchi"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-<a href="https://threads.com/ishanwarachchi"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
-<a href="https://www.youtube.com/@ishanwarachchi"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+<a href="https://twitter.com/pubuduishanw"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
+<a href="https://instagram.com/pubuduishanw"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://threads.com/pubuduishanw"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
+<a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"/></a>
 
 </div>
@@ -170,9 +170,9 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
 <a href="https://t.me/+94778830166"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-<a href="https://m.me/ishanwarachchi"><img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/></a>
+<a href="https://m.me/pubuduishandigital"><img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/></a>
 <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-<a href="https://discord.gg/ishanwarachchi"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 
 </div>
 
